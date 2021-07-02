@@ -1,0 +1,33 @@
+.inner img{
+    width:100%;
+    height: 380px;
+}
+.outer{
+    background-color: #d6d4d4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius:10px;
+}
+.inner{
+    width: 80%;
+    background-color:white;
+    margin: 0 auto;
+    border-radius:10px;
+}
+.footArea{
+    display:flex;
+    justify-content: space-between;
+}
+.btn{
+    width:120px;
+    color:white;
+    background-color:#ff523b;
+    border-radius:7px;
+    font-weight: 800;
+    height: 55px;
+}
+.price{
+    font-size:20px;
+    font-weight:900;
+    color: #ff523b;
+}

@@ -1,0 +1,29 @@
+.cart{
+    margin: 80px auto;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+th{
+    text-align:left;
+    padding: 5px;
+    color: #fff;
+    background: #ff523b;
+    font-weight: normal;
+}
+.data{
+    padding-left: 8px;
+}
+.middata{
+    padding-left:05px;
+}
+.chkbtn{
+    margin-top: 50px;
+}
+.btndiv{
+    float: right;
+}
+.total{
+    padding-left: 8px;
+}
